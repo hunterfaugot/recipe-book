@@ -8,13 +8,13 @@ const Home = () => (
 
  <h1 className="mb-6 text-4xl font-bold text-blue-600">
 
- Welcome to [Project Name]
+ Welcome to Recipe Book
 
  </h1>
 
  <p className="mb-6 text-lg text-gray-700">
 
- This is the home page of [Project Name].
+ This is the home page of Recipe Book.
 
  </p>
 
